@@ -12,10 +12,8 @@ An interactive, single-page learning experience for AI certification preparation
 
 ## Run locally
 
-Open `outputs/ai-certification-lab.html` in a browser.
+Open `index.html` in a browser. Progress is saved locally in that browser.
 
 ## Public site
 
-GitHub Pages can serve the app directly from:
-
-`/outputs/ai-certification-lab.html`
+The app is published from the repository root by GitHub Pages. This is a study aid; it does not grant an official vendor certification.
